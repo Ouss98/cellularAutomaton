@@ -129,7 +129,7 @@ namespace _0Assignment1
         }
         
         // Initialize process with user's entries
-        public void InitProcess()
+        private void InitProcess()
         {
             rule = SetRule();
             ruleArray = decToBin.NumberToUintArr(rule, 8);
@@ -209,7 +209,7 @@ namespace _0Assignment1
         }
 
         // Circular Right Shift
-        public uint CircularRightShift(uint value)
+        private uint CircularRightShift(uint value)
         {
             uint mask = 1;
             uint res = 0;
@@ -235,7 +235,7 @@ namespace _0Assignment1
         }
 
         // Circular Left Shift
-        public uint CircularLeftShift(uint value)
+        private uint CircularLeftShift(uint value)
         {
             uint mask = 1;
             uint res = 0;
