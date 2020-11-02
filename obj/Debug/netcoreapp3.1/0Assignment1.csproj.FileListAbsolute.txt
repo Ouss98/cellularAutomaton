@@ -1,0 +1,13 @@
+C:\Users\Oussama\Documents\UCC\AM6007\Csharp\0Assignment1\bin\Debug\netcoreapp3.1\0Assignment1.exe
+C:\Users\Oussama\Documents\UCC\AM6007\Csharp\0Assignment1\bin\Debug\netcoreapp3.1\0Assignment1.deps.json
+C:\Users\Oussama\Documents\UCC\AM6007\Csharp\0Assignment1\bin\Debug\netcoreapp3.1\0Assignment1.runtimeconfig.json
+C:\Users\Oussama\Documents\UCC\AM6007\Csharp\0Assignment1\bin\Debug\netcoreapp3.1\0Assignment1.runtimeconfig.dev.json
+C:\Users\Oussama\Documents\UCC\AM6007\Csharp\0Assignment1\bin\Debug\netcoreapp3.1\0Assignment1.dll
+C:\Users\Oussama\Documents\UCC\AM6007\Csharp\0Assignment1\bin\Debug\netcoreapp3.1\0Assignment1.pdb
+C:\Users\Oussama\Documents\UCC\AM6007\Csharp\0Assignment1\obj\Debug\netcoreapp3.1\0Assignment1.csprojAssemblyReference.cache
+C:\Users\Oussama\Documents\UCC\AM6007\Csharp\0Assignment1\obj\Debug\netcoreapp3.1\0Assignment1.AssemblyInfoInputs.cache
+C:\Users\Oussama\Documents\UCC\AM6007\Csharp\0Assignment1\obj\Debug\netcoreapp3.1\0Assignment1.AssemblyInfo.cs
+C:\Users\Oussama\Documents\UCC\AM6007\Csharp\0Assignment1\obj\Debug\netcoreapp3.1\0Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\Oussama\Documents\UCC\AM6007\Csharp\0Assignment1\obj\Debug\netcoreapp3.1\0Assignment1.dll
+C:\Users\Oussama\Documents\UCC\AM6007\Csharp\0Assignment1\obj\Debug\netcoreapp3.1\0Assignment1.pdb
+C:\Users\Oussama\Documents\UCC\AM6007\Csharp\0Assignment1\obj\Debug\netcoreapp3.1\0Assignment1.genruntimeconfig.cache
